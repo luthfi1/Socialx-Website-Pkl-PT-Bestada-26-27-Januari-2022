@@ -1,3 +1,7 @@
+### `Hasil Website
+<img width="1440" alt="Screen Shot 2022-01-28 at 14 40 25" src="https://user-images.githubusercontent.com/68719137/151506620-11917fe8-4c78-4b65-8d4d-dcf22b1a274a.png">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +72,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
